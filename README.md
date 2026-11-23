@@ -43,7 +43,9 @@ theft. 05 needs a feed mock to be interesting.
 
 ## Who
 
-Andrei Dodu, [Dodu Security](https://dodu.se). Fixed-fee smart contract audits:
-[services](https://dodu.se/services) · [what a report looks like](https://dodu.se/audit-report-template).
+Andrei Dodu, [Dodu Security](https://dodusecurity.xyz). Fixed-fee smart contract
+audits: [services](https://dodu.se/services/smart-contract-audit) ·
+[what a report looks like](https://dodu.se/audit-report-template) ·
+[what drives the fee](https://dodu.se/smart-contract-audit-cost).
 
 MIT.
